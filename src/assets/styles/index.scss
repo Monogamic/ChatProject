@@ -253,6 +253,7 @@ input[type="text"] {
     flex-wrap: wrap;
     align-items: flex-end;
     justify-content: flex-end;
+    flex-direction: column;
 }
 
 .sender {
